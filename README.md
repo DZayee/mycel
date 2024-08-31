@@ -2,7 +2,7 @@
 **Mycel** is a Decentralized ID Infrastructure solution that resolves addresses such as websites, crypto wallets, IPFS, among many more accessible through a single domain with name resolution support in DNS, IBC and smart contracts.
 
 ## Get started
-
+#Built
 ```
 ignite chain serve
 ```
